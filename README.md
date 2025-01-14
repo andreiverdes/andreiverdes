@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 **🌍 Location:** Romania  
 **🕒 Time Zone Compatibility:** 4 hrs overlap (PST or EST)  
@@ -58,3 +58,4 @@ With over **12 years of experience** (including **8 years working remotely**) ac
 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 💼 **Portfolio:** [andreiverdes.com](https://andreiverdes.com)
+-->
