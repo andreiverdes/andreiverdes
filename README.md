@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 With over **12 years of experience** (including **8 years working remotely**) across fields such as **Mobile Payments, IoT, Automotive, Photo/Video Processing, Digital Wellbeing**, and more, I have proudly built and maintained successful apps from the ground up, achieving **over 50 million downloads** and an **average rating of 4.6 stars** for clients across the **USA and Europe**.
 
 ---
+[instasize-img]: ./art/instasize.webp
 [link-instasize]: https://andreiverdes.com/projects/instasize-media-editor
 
 ## My Work
-| ![andreiverdes.com](./art/projects/instasize.webp) | ![[link-instasize]](./art/projects/instasize.webp)([link-instasize]) | ![andreiverdes.com](./art/projects/skylight.webp) |
+| [![andreiverdes.com](./art/projects/instasize.webp)](link-instasize) | [![Skylight][instasize-img]][link-instasize] | ![andreiverdes.com](./art/projects/skylight.webp) |
 |----------|----------|----------|
 | ![andreiverdes.com](./art/projects/microsoft.webp)   | ![andreiverdes.com](./art/projects/mclaren.webp) | ![andreiverdes.com](./art/projects/made.webp) |
 | ![andreiverdes.com](./art/projects/cayenne.webp)   | ![andreiverdes.com](./art/projects/iotinabox.webp) | ![andreiverdes.com](./art/projects/ok.webp) |
