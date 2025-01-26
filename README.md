@@ -31,7 +31,7 @@ With over **12 years of experience** (including **8 years working remotely**) ac
 [link-instasize]: https://andreiverdes.com/projects/instasize-media-editor
 
 ## My Work
-| ![andreiverdes.com](./art/projects/instasize.webp) | ![[link-instasize]](./art/projects/instasize.webp) | ![andreiverdes.com](./art/projects/skylight.webp) |
+| ![andreiverdes.com](./art/projects/instasize.webp) | ![[link-instasize]](./art/projects/instasize.webp)([link-instasize]) | ![andreiverdes.com](./art/projects/skylight.webp) |
 |----------|----------|----------|
 | ![andreiverdes.com](./art/projects/microsoft.webp)   | ![andreiverdes.com](./art/projects/mclaren.webp) | ![andreiverdes.com](./art/projects/made.webp) |
 | ![andreiverdes.com](./art/projects/cayenne.webp)   | ![andreiverdes.com](./art/projects/iotinabox.webp) | ![andreiverdes.com](./art/projects/ok.webp) |
