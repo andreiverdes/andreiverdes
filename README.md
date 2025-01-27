@@ -28,14 +28,30 @@ Here are some ideas to get you started:
 With over **12 years of experience** (including **8 years working remotely**) across fields such as **Mobile Payments, IoT, Automotive, Photo/Video Processing, Digital Wellbeing**, and more, I have proudly built and maintained successful apps from the ground up, achieving **over 50 million downloads** and an **average rating of 4.6 stars** for clients across the **USA and Europe**.
 
 
+[moovees-img]: ./art/projects/moovees.webp
+[moovees-link]: https://andreiverdes.com/projects/moovees
 [instasize-img]: ./art/projects/instasize.webp
-[link-instasize]: https://andreiverdes.com/projects/instasize-media-editor
+[instasize-link]: https://andreiverdes.com/projects/instasize-media-editor
+[skylight-img]: ./art/projects/skylight.webp
+[skylight-link]: https://andreiverdes.com/projects/skylight-spiritual-self-care
+[microsoft-img]: ./art/projects/microsoft.webp
+[microsoft-link]: https://andreiverdes.com/projects/microsoft-surface-duo
+[mclaren-img]: ./art/projects/mclaren.webp
+[mclaren-link]: https://andreiverdes.com/projects/mclaren-variable-drift-control
+[made-img]: ./art/projects/made.webp
+[made-link]: https://andreiverdes.com/projects/made-story-editor
+[cayenne-img]: ./art/projects/cayenne.webp
+[cayenne-link]: https://andreiverdes.com/projects/cayenne-iot-devices-manager
+[iotinabox-img]: ./art/projects/iotinabox.webp
+[iotinabox-link]: https://andreiverdes.com/projects/iotinabox-b2b-sensors-manager
+[ok-img]: ./art/projects/ok.webp
+[ok-link]: https://andreiverdes.com/projects/ok-digital-wallet
 
 ## My Work
-| [![andreiverdes.com](./art/projects/instasize.webp)](link-instasize) | [![Skylight][instasize-img]][link-instasize] | ![andreiverdes.com](./art/projects/skylight.webp) |
-|----------|----------|----------|
-| ![andreiverdes.com](./art/projects/microsoft.webp)   | ![andreiverdes.com](./art/projects/mclaren.webp) | ![andreiverdes.com](./art/projects/made.webp) |
-| ![andreiverdes.com](./art/projects/cayenne.webp)   | ![andreiverdes.com](./art/projects/iotinabox.webp) | ![andreiverdes.com](./art/projects/ok.webp) |
+|   [![Skylight][moovees-img]][moovees-link]   | [![Skylight][instasize-img]][instasize-link] | [![Skylight][skylight-img]][skylight-link] |
+|----------------------------------------------|----------------------------------------------|--------------------------------------------|
+| [![Skylight][microsoft-img]][microsoft-link] |   [![Skylight][mclaren-img]][mclaren-link]   |     [![Skylight][made-img]][made-link]     |
+|   [![Skylight][cayenne-img]][cayenne-link]   | [![Skylight][iotinabox-img]][iotinabox-link] |       [![Skylight][ok-img]][ok-link]       |
 
 
 ## Skills
