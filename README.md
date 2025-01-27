@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 With over **12 years of experience** (including **8 years working remotely**) across fields such as **Mobile Payments, IoT, Automotive, Photo/Video Processing, Digital Wellbeing**, and more, I have proudly built and maintained successful apps from the ground up, achieving **over 50 million downloads** and an **average rating of 4.6 stars** for clients across the **USA and Europe**.
 
 
-[instasize-img]: ./art/instasize.webp
+[instasize-img]: ./art/projects/instasize.webp
 [link-instasize]: https://andreiverdes.com/projects/instasize-media-editor
 
 ## My Work
@@ -40,56 +40,33 @@ With over **12 years of experience** (including **8 years working remotely**) ac
 
 ## Skills
 
-<style>
-.skill-pill {
-  display: inline-block;
-  padding: 8px 12px;
-  margin: 4px;
-  background-color: #043ED7;
-  color: white;
-  border-radius: 8px;
-  font-size: 14px;
-  text-align: center;
-  text-decoration: none;
-}
-</style>
-
-<div class="container">
-  <span class="skill-pill">Android</span>
-  <span class="skill-pill">Android SDK</span>
-  <span class="skill-pill">Kotlin</span>
-  <span class="skill-pill">Framer</span>
-  <span class="skill-pill">Material Design</span>
-  <span class="skill-pill">Jetpack Compose</span>
-  <span class="skill-pill">Clean Architecture</span>
-  <span class="skill-pill">MVI</span>
-  <span class="skill-pill">MVP</span>
-  <span class="skill-pill">MVVM</span>
-  <span class="skill-pill">MVC</span>
-  <span class="skill-pill">Open AI APIs</span>
-  <span class="skill-pill">Gradle</span>
-  <span class="skill-pill">Dagger2</span>
-  <span class="skill-pill">Java</span>
-  <span class="skill-pill">Hilt</span>
-  <span class="skill-pill">OpenGL/ES</span>
-  <span class="skill-pill">GLSL</span>
-  <span class="skill-pill">RxJava</span>
-  <span class="skill-pill">Kotlin Flows</span>
-  <span class="skill-pill">Kotlin Coroutines</span>
-  <span class="skill-pill">Analytics</span>
-  <span class="skill-pill">Continuous Delivery</span>
-  <span class="skill-pill">Continuous Integration</span>
-  <span class="skill-pill">AOSP</span>
-  <span class="skill-pill">Firebase Services</span>
-  <span class="skill-pill">A/B Testing</span>
-  <span class="skill-pill">PlayStore Publishing/Release</span>
-</div>
-
 ![Android](./skills/android.svg)
-
-
-## Contact
-
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-💼 **Portfolio:** [andreiverdes.com](https://andreiverdes.com)
+![Android SDK](./skills/android-sdk.svg)
+![Kotlin](./skills/kotlin.svg)
+![Java](./skills/java.svg)
+![Framer](./skills/framer.svg)
+![Material Design](./skills/material-design.svg)
+![Jetpack Compose](./skills/jetpack-compose.svg)
+![Clean Architecture](./skills/clean-architecture.svg)
+![MVI](./skills/mvi.svg)
+![MVP](./skills/mvp.svg)
+![MVVM](./skills/mvvm.svg)
+![MVC](./skills/mvc.svg)
+![Open AI APIs](./skills/open-ai-apis.svg)
+![Gradle](./skills/gradle.svg)
+![Dagger2](./skills/dagger2.svg)
+![Hilt](./skills/hilt.svg)
+![OpenGL/ES](./skills/opengl-es.svg)
+![GLSL](./skills/glsl.svg)
+![RxJava](./skills/rxjava.svg)
+![Kotlin Flows](./skills/kotlin-flows.svg)
+![Kotlin Coroutines](./skills/kotlin-coroutines.svg)
+![Analytics](./skills/analytics.svg)
+![Continuous Delivery](./skills/continuous-delivery.svg)
+![Continuous Integration](./skills/continuous-integration.svg)
+![AOSP](./skills/aosp.svg)
+![Automotive](./skills/automotive.svg)
+![Firebase Services](./skills/firebase-services.svg)
+![A/B Testing](./skills/ab-testing.svg)
+![PlayStore](./skills/playstore.svg)
+![App Store](./skills/appstore.svg)
