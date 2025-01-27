@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 -->
 [![andreiverdes.com](./art/banner.png)](https://andreiverdes.com)
 [**🌐☝️ andreiverdes.com**](https://andreiverdes.com)
-## About Me
+
+### About Me
 
 With over **12 years of experience** (including **8 years working remotely**) across fields such as **Mobile Payments, IoT, Automotive, Photo/Video Processing, Digital Wellbeing**, and more, I have proudly built and maintained successful apps from the ground up, achieving **over 50 million downloads** and an **average rating of 4.6 stars** for clients across the **USA and Europe**.
-
 
 [moovees-img]: ./art/projects/moovees.webp
 [moovees-link]: https://andreiverdes.com/projects/moovees
@@ -47,14 +47,14 @@ With over **12 years of experience** (including **8 years working remotely**) ac
 [ok-img]: ./art/projects/ok.webp
 [ok-link]: https://andreiverdes.com/projects/ok-digital-wallet
 
-## My Work
+### My Work
 |   [![Skylight][moovees-img]][moovees-link]   | [![Skylight][instasize-img]][instasize-link] | [![Skylight][skylight-img]][skylight-link] |
 |----------------------------------------------|----------------------------------------------|--------------------------------------------|
 | [![Skylight][microsoft-img]][microsoft-link] |   [![Skylight][mclaren-img]][mclaren-link]   |     [![Skylight][made-img]][made-link]     |
 |   [![Skylight][cayenne-img]][cayenne-link]   | [![Skylight][iotinabox-img]][iotinabox-link] |       [![Skylight][ok-img]][ok-link]       |
 
 
-## Skills
+### Skills
 
 ![Android](./skills/android.svg)
 ![Android SDK](./skills/android-sdk.svg)
